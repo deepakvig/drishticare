@@ -1,0 +1,10 @@
+Code| Entity
+----| ------
+Ad  | Admin
+Pr  | Provider
+Dc  | DRC
+Cm  | Camp
+Do  | Doctor
+Pg  | Technician/Photographer
+Pt  | Patient
+

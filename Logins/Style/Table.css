@@ -1,0 +1,57 @@
+#CampTable table{
+	overflow:scroll;
+	border: 1px solid #666;
+}
+
+#CampTable tr td{
+	padding: 3px 7px;
+	background: #fff;
+}
+
+#CampTable thead td{
+	font: bold 110.5% "Lucida Sans Unicode",sans-serif;
+	color:#85a157;
+	border: 1px inset #999;
+	border-left: 0px;
+}
+
+#CampTable tbody td{
+	border-left: 1px solid #D9D9D9;
+}
+
+
+#CampTable tbody tr.Sumalternate td{
+	background-color:#FCFFF0;
+	font: normal 90.5% "Lucida Sans Unicode",sans-serif;
+	border-bottom: 1px inset #6b6;
+}
+#CampTable tbody tr.Sumselected td{
+	font: normal 90.5% "Lucida Sans Unicode",sans-serif;
+	border-bottom: 1px inset #6b6;
+}
+#CampTable a {
+	text-decoration:none;
+	color:black;
+}
+
+#CampTable tbody tr.alternate td{
+	background-color:#FCFFF0;
+	font: normal 100.5% "Lucida Sans Unicode",sans-serif;
+	border-bottom: 1px inset #6b6;
+}
+
+#CampTable tbody tr.Special td{
+	background-color:#1CFFF0;
+	font: normal 100.5% "Lucida Sans Unicode",sans-serif;
+	border-bottom: 1px inset #6b6;
+}
+
+#CampTable tbody tr.selected td{
+	font: normal 100.5% "Lucida Sans Unicode",sans-serif;
+	border-bottom: 1px inset #6b6;
+}
+
+
+#CampTable head:first-child+body tr.ruled td{
+	background-color: #C6E3FF; 
+}

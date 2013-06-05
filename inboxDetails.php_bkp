@@ -1,0 +1,143 @@
+<?php
+
+echo '<inbox>
+	<drName>ABC</drName>
+	<qualification>12</qualification>
+	<extra>dsdasfasf</extra>
+	<affilation>something</affilation>
+	<no>50</no>
+	<unread>10</unread>
+	<start>1</start>
+	<details>
+		<pid>P01013578</pid>
+		<name>KURIAN SCARIA</name>
+		<gender>male</gender>
+		<age>45</age>
+		<source>Remote Hospital</source>
+		<date>13 Mar, 2009</date>
+		<status>p</status>
+		<leftEyeImage1>/eyeImages/L10.jpg</leftEyeImage1>
+		<leftEyeImage2>/eyeImages/L11.jpg</leftEyeImage2>
+		<leftEyeImage3>/eyeImages/L20.jpg</leftEyeImage3>
+		<leftEyeImage4>/eyeImages/L21.jpg</leftEyeImage4>
+		<leftEyeImage5>/eyeImages/L30.jpg</leftEyeImage5>
+		<leftEyeImage6>/eyeImages/L31.jpg</leftEyeImage6>
+		<rightEyeImage1>/eyeImages/R10.jpg</rightEyeImage1>
+		<rightEyeImage2>/eyeImages/R11.jpg</rightEyeImage2>
+		<rightEyeImage3>/eyeImages/R20.jpg</rightEyeImage3>
+		<rightEyeImage4>/eyeImages/R21.jpg</rightEyeImage4>
+		<rightEyeImage5>/eyeImages/R30.jpg</rightEyeImage5>
+		<rightEyeImage6>/eyeImages/R31.jpg</rightEyeImage6>
+	</details>
+	<details>
+		<pid>P40518950</pid>
+		<name>VAISAKH V R</name>
+		<gender>male</gender>
+		<age>40</age>
+		<source>Camp</source>
+		<date>04 May, 2009</date>
+		<leftEyeImage1>/eyeImages/L10.jpg</leftEyeImage1>
+                <leftEyeImage2>/eyeImages/L11.jpg</leftEyeImage2>
+                <leftEyeImage3>/eyeImages/L20.jpg</leftEyeImage3>
+                <leftEyeImage4>/eyeImages/L21.jpg</leftEyeImage4>
+                <leftEyeImage5>/eyeImages/L30.jpg</leftEyeImage5>
+                <leftEyeImage6>none</leftEyeImage6>
+                <rightEyeImage1>/eyeImages/R10.jpg</rightEyeImage1>
+                <rightEyeImage2>/eyeImages/R11.jpg</rightEyeImage2>
+                <rightEyeImage3>/eyeImages/R20.jpg</rightEyeImage3>
+                <rightEyeImage4>/eyeImages/R21.jpg</rightEyeImage4>
+                <rightEyeImage5>/eyeImages/R30.jpg</rightEyeImage5>
+                <rightEyeImage6>none</rightEyeImage6>
+	</details>
+	<details>
+		<pid>P40457950</pid>
+		<name>Sitaram Chandra</name>
+		<gender>male</gender>
+		<age>36</age>
+		<source>Camp</source>
+		<date>24 Jan, 2009</date>
+		<status>p</status>
+		<leftEyeImage1>/eyeImages/L10.jpg</leftEyeImage1>
+                <leftEyeImage2>/eyeImages/L11.jpg</leftEyeImage2>
+                <leftEyeImage3>/eyeImages/L20.jpg</leftEyeImage3>
+                <leftEyeImage4>/eyeImages/L21.jpg</leftEyeImage4>
+                <leftEyeImage5>none</leftEyeImage5>
+                <leftEyeImage6>none</leftEyeImage6>
+                <rightEyeImage1>/eyeImages/R10.jpg</rightEyeImage1>
+                <rightEyeImage2>/eyeImages/R11.jpg</rightEyeImage2>
+                <rightEyeImage3>/eyeImages/R20.jpg</rightEyeImage3>
+                <rightEyeImage4>/eyeImages/R21.jpg</rightEyeImage4>
+                <rightEyeImage5>none</rightEyeImage5>
+                <rightEyeImage6>none</rightEyeImage6>
+	</details>
+	<details>
+		<pid>P04015577</pid>
+		<name>Aneeta Rani</name>
+		<gender>female</gender>
+		<age>47</age>
+		<source>Vision centre</source>
+		<date>01 Feb, 2009</date>
+		<status>p</status>
+		<leftEyeImage1>/eyeImages/L10.jpg</leftEyeImage1>
+                <leftEyeImage2>/eyeImages/L11.jpg</leftEyeImage2>
+                <leftEyeImage3>/eyeImages/L20.jpg</leftEyeImage3>
+                <leftEyeImage4>none</leftEyeImage4>
+                <leftEyeImage5>none</leftEyeImage5>
+                <leftEyeImage6>none</leftEyeImage6>
+                <rightEyeImage1>/eyeImages/R10.jpg</rightEyeImage1>
+                <rightEyeImage2>/eyeImages/R11.jpg</rightEyeImage2>
+                <rightEyeImage3>/eyeImages/R20.jpg</rightEyeImage3>
+                <rightEyeImage4>none</rightEyeImage4>
+                <rightEyeImage5>none</rightEyeImage5>
+                <rightEyeImage6>none</rightEyeImage6>
+	</details>
+	<details>
+		<pid>P14015570</pid>
+		<name>Ram Swroop Das</name>
+		<gender>male</gender>
+		<age>75</age>
+		<source>Remote Hospital</source>
+		<date>23 Jun, 2008</date>
+	</details>
+	<details>
+		<pid>P40518750</pid>
+		<name>ANUROOP SAYANI</name>
+		<gender>male</gender>
+		<age>25</age>
+		<source>Camp</source>
+		<date>04 Sep, 2008</date>
+	</details>
+	<details>
+		<pid>P00013578</pid>
+		<name>K. P. ABHINAY</name>
+		<gender>male</gender>
+		<age>45</age>
+		<source>Remote Hospital</source>
+		<date>13 May, 2008</date>
+	</details>
+	<details>
+		<pid>P40513950</pid>
+		<name>ANUROOP SAYANI</name>
+		<gender>male</gender>
+		<age>25</age>
+		<source>Camp</source>
+		<date>04 Sep, 2008</date>
+	</details>
+	<details>
+		<pid>P04015577</pid>
+		<name>Veenita Shnad</name>
+		<gender>female</gender>
+		<age>35</age>
+		<source>Vision centre</source>
+		<date>14 Feb, 2009</date>
+	</details>
+	<details>
+		<pid>P14015570</pid>
+		<name>Kamaal Khan</name>
+		<gender>male</gender>
+		<age>75</age>
+		<source>Remote Hospital</source>
+		<date>13 Apr, 2009</date>
+	</details>	
+	</inbox>';
+?>
